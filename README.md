@@ -1,16 +1,17 @@
 ## Hi there 👋
-
-<!--
-**DhritiKohli/DhritiKohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a rising senior at Naperville North High School with a passion for using technology to solve real-world problems and create opportunities for others. As someone interested in computer science, data science, and astronomy, I enjoy building projects, learning new technologies, and turning ideas into something meaningful. I'm especially interested in machine learning and hope to become an ML engineer, with software engineering as another path I'm excited to explore. I'm always looking for opportunities to learn, challenge myself, and step outside my comfort zone, whether that's through new projects, leadership roles, or experiences that help me grow.
+### Familiar Languages
+- Python
+- Java
+- JavaScript
+- JSON
+- HTML
+- CSS
+- Markdown
+### Familiar Tools/Technologies
+- VS Code
+- Github Copilot
+- Wix (Velo)
+- MongoDB
+- Google Cloud Platform (GCP)
+- Node.js
