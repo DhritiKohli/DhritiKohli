@@ -27,3 +27,12 @@ I'm a rising senior at Naperville North High School with a passion for using tec
 - Google Cloud Platform (GCP)
 - Node.js
 
+## Projects 
+These are some of the projects I have worked on the past few years:
+- [Shared Watchlist For My Friends]( https://watchlist-omega-two.vercel.app/ )
+- [FRC Team 3061 scouting application](https://spotdemo.team3061.org/)
+- [Data Vizualization/Analysis about how women health is affected through social media](https://public.tableau.com/views/WomensMentalHealthAffectedbySocialMedia-AlinaDhritiAddya/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+
+
